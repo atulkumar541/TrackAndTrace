@@ -1,0 +1,15 @@
+<?php 
+defined('BASEPATH') OR exit('No direct script access allowed');
+/**
+ * 
+ */
+class Admindash_model extends CI_Model
+{
+	public function create_regi($userdata)
+	{
+		$this->db->insert('company',$userdata);
+		return $this->db->insert_id();
+	}
+	
+}
+?>

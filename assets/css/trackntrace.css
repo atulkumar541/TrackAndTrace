@@ -1,0 +1,92 @@
+.navbar-header .logo-box {
+    width: 200px;
+    height: 80px;
+    padding: 0 0 0 20px;
+    margin: 0px;
+    float: left;
+    background-color: #ed3325;
+}
+.navbar-collapse.pull-right {
+    width: auto;
+}
+.navbar-header {
+    float: left;
+}
+.navbar {
+    margin-bottom: 0px;
+}
+
+.topbar.dark {
+	background-color: #242424;
+}
+.topbar-left-items {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 37%;
+}
+toplist.toppadding {
+    padding-top: 10px;
+}
+.topbar-padding {
+    padding: 7px 0 15px 0;
+}
+toplist {
+    padding: 0px;
+    margin: 0px;
+}
+.navbar-default {
+    border: none;
+}
+.navbar-brand {
+    float: left;
+    font-size: 18px;
+    height: 50px;
+    line-height: 20px;
+    padding: 16px 0 0;
+}
+
+.toplist li {
+    float: left;
+    color: #8d8c8c;
+    text-align: right;
+    font-size: 14px;
+    margin: 0px;
+    padding: 0 10px 0 10px;
+}
+ul {
+    list-style-type: none;
+}
+.toplist.toppadding {
+    padding-top: 10px;
+    float: right;
+}
+.topbar-right-items {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 37%;
+}
+.pull-right {
+    float: right !important;
+}
+.toplist li a {
+    color: #8d8c8c;
+}
+.topbar.dark .toplist li a:hover {
+    color: #fff;
+}
+.btn.btn-red-4:hover {
+    color: #fff;
+    background-color: #f43819;
+}
+.btn.btn-red-4 {
+    color: #fff;
+    background-color: #f43819;
+}
+.btn.btn-round {
+    border-radius: 2px;
+}
+.btn.btn-small-2 {
+    padding: 4px 18px;
+}
